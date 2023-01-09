@@ -42,7 +42,7 @@ public class Main {
 		obj.changeA(10);
 		obj.changeA(100);
 		System.out.println(obj.getA());
-		
+		System.out.println("Hello world");
 	}
 
 }
