@@ -45,6 +45,7 @@ public class Main {
 		System.out.println("Hello world");
 		System.out.println("Bye");
 		System.out.println("Jangan lupa datang kembali"); 
+		System.out.println("Ini tambahan bwt ketiga");
 	}
 
 }
