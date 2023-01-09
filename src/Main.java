@@ -43,6 +43,7 @@ public class Main {
 		obj.changeA(100);
 		System.out.println(obj.getA());
 		System.out.println("Hello world");
+		System.out.println("Bye");
 	}
 
 }
