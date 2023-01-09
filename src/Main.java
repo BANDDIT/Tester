@@ -33,7 +33,7 @@ public class Main {
 //		obj.tambah(1,2,3,4,5);
 		
 //		overideAnak obj = new overideAnak();
-//		obj.print();
+//		obj.print();J
 		/*
 		Overide itu menindih method di class parent dengan method di class anak, jika nama method tersebut sama.
 		 */
@@ -44,6 +44,7 @@ public class Main {
 		System.out.println(obj.getA());
 		System.out.println("Hello world");
 		System.out.println("Bye");
+		System.out.println("Jangan lupa datang kembali"); 
 	}
 
 }
